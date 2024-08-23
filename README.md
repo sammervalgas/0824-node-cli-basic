@@ -159,7 +159,7 @@ console.log(chalk.green('Password added successfully.'));
 
 ```javascript
 import figlet from 'figlet';
-console.log(figlet.textSync('DevBean CLI', { horizontalLayout: 'full' }));
+console.log(figlet.textSync('Node CLI Basic', { horizontalLayout: 'full' }));
 ```
 
 ### `inquirer`
@@ -197,4 +197,4 @@ Sinta-se à vontade para contribuir com melhorias e correções. Para isso, faç
 
 ## Autores
 
-- SAMMER VALGAS - XGH Expert 
+- SAMMER VALGAS - DevBean Specialist
